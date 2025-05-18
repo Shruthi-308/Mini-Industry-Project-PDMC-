@@ -1,0 +1,201 @@
+Patient_ID,Age,Gender,Weight (kg),Malaria Type,Initial Malaria Severity,Hospitalization Duration (Days),Chemoprevention Drug,Doses Administered,Adherence to Medication,Follow-up Period (Days),Reinfection Occurrence,Time to Reinfection (Days),Adverse Effects,Outcome
+PDMC-001,52,Male,26.9,P. vivax,Severe,13,Other,3,No,138,Yes,49,Rash,Other Complications
+PDMC-002,55,Male,33.7,P. vivax,Moderate,1,Other,3,No,91,Yes,141,Dizziness,Reinfected
+PDMC-003,42,Male,14.7,Mixed,Moderate,5,Amodiaquine,2,Yes,58,No,999,None,Other Complications
+PDMC-004,18,Male,37.2,P. falciparum,Moderate,10,DHA-PPQ,1,Yes,133,No,999,Fatigue,Other Complications
+PDMC-005,57,Female,66.0,Mixed,Moderate,4,DHA-PPQ,1,Yes,130,Yes,41,None,Reinfected
+PDMC-006,24,Female,76.8,P. falciparum,Mild,8,DHA-PPQ,2,No,110,Yes,38,Fatigue,Reinfected
+PDMC-007,64,Male,13.5,P. vivax,Moderate,8,DHA-PPQ,3,No,90,No,999,Rash,Recovered
+PDMC-008,60,Female,36.9,P. falciparum,Severe,1,Amodiaquine,3,No,34,No,999,Rash,Reinfected
+PDMC-009,14,Male,62.5,Mixed,Mild,2,DHA-PPQ,1,No,131,Yes,74,Fatigue,Recovered
+PDMC-010,35,Male,52.1,P. vivax,Mild,13,Other,3,Yes,138,Yes,82,Nausea,Reinfected
+PDMC-011,7,Female,8.5,P. falciparum,Mild,3,SP,2,Yes,104,Yes,145,Dizziness,Other Complications
+PDMC-012,46,Male,63.3,P. falciparum,Mild,10,Other,1,Yes,126,No,999,Dizziness,Other Complications
+PDMC-013,25,Female,47.2,Mixed,Moderate,6,Other,1,Yes,144,No,999,None,Recovered
+PDMC-014,47,Male,69.6,P. falciparum,Moderate,4,SP,3,No,100,Yes,134,Fatigue,Other Complications
+PDMC-015,60,Male,66.8,P. falciparum,Moderate,12,Amodiaquine,3,Yes,57,Yes,42,Rash,Other Complications
+PDMC-016,27,Male,78.9,P. falciparum,Mild,5,Other,2,Yes,124,No,999,Nausea,Reinfected
+PDMC-017,60,Female,60.7,P. vivax,Severe,4,SP,1,No,123,Yes,5,Dizziness,Recovered
+PDMC-018,10,Male,71.1,P. falciparum,Moderate,14,Amodiaquine,3,No,81,No,999,Rash,Reinfected
+PDMC-019,68,Female,42.2,P. falciparum,Moderate,7,Amodiaquine,1,Yes,116,No,999,Vomiting,Recovered
+PDMC-020,49,Male,62.4,P. falciparum,Severe,13,DHA-PPQ,2,Yes,133,No,999,Dizziness,Reinfected
+PDMC-021,56,Male,52.3,P. vivax,Mild,13,Amodiaquine,3,Yes,146,No,999,Dizziness,Other Complications
+PDMC-022,31,Female,79.4,Mixed,Severe,13,Other,3,No,74,No,999,Nausea,Reinfected
+PDMC-023,59,Male,52.3,P. falciparum,Moderate,9,Amodiaquine,3,No,103,Yes,86,Nausea,Recovered
+PDMC-024,42,Male,40.3,P. falciparum,Moderate,2,DHA-PPQ,1,No,152,No,999,Fatigue,Other Complications
+PDMC-025,64,Female,11.4,Mixed,Mild,4,Other,1,No,167,No,999,Vomiting,Other Complications
+PDMC-026,8,Male,47.4,Mixed,Severe,8,DHA-PPQ,2,Yes,157,No,999,Fatigue,Other Complications
+PDMC-027,21,Female,7.2,P. vivax,Severe,7,Other,1,No,176,No,999,Vomiting,Reinfected
+PDMC-028,10,Female,50.8,P. falciparum,Severe,3,Other,1,No,130,Yes,176,Rash,Other Complications
+PDMC-029,35,Male,18.2,P. vivax,Mild,5,Amodiaquine,3,No,155,Yes,128,Vomiting,Reinfected
+PDMC-030,2,Female,35.2,P. falciparum,Mild,9,DHA-PPQ,2,No,149,No,999,Rash,Recovered
+PDMC-031,69,Male,9.3,P. vivax,Mild,3,Other,1,Yes,107,Yes,141,Vomiting,Reinfected
+PDMC-032,38,Female,47.4,P. falciparum,Moderate,9,SP,1,No,54,Yes,138,Dizziness,Recovered
+PDMC-033,52,Male,30.6,Mixed,Severe,10,Amodiaquine,1,No,70,No,999,Fatigue,Reinfected
+PDMC-034,32,Male,52.4,P. vivax,Mild,14,Amodiaquine,2,No,61,Yes,58,None,Recovered
+PDMC-035,12,Male,46.4,P. vivax,Mild,11,SP,1,Yes,107,No,999,None,Recovered
+PDMC-036,7,Female,14.2,P. vivax,Severe,11,Amodiaquine,3,No,89,No,999,Nausea,Other Complications
+PDMC-037,16,Female,14.3,P. vivax,Moderate,1,DHA-PPQ,1,No,170,Yes,130,Nausea,Recovered
+PDMC-038,14,Male,19.9,Mixed,Mild,12,SP,3,No,46,No,999,Nausea,Recovered
+PDMC-039,19,Male,39.2,P. falciparum,Moderate,8,Amodiaquine,2,Yes,170,No,999,Nausea,Other Complications
+PDMC-040,68,Female,34.3,Mixed,Severe,3,Amodiaquine,3,No,97,Yes,146,None,Other Complications
+PDMC-041,33,Female,47.6,P. falciparum,Mild,7,DHA-PPQ,1,Yes,171,No,999,Fatigue,Reinfected
+PDMC-042,61,Male,37.3,P. falciparum,Severe,13,Other,1,Yes,71,Yes,68,Nausea,Reinfected
+PDMC-043,11,Male,44.5,P. falciparum,Moderate,12,DHA-PPQ,3,Yes,165,Yes,78,Dizziness,Recovered
+PDMC-044,10,Female,54.3,P. falciparum,Mild,5,Amodiaquine,1,No,50,Yes,56,Dizziness,Recovered
+PDMC-045,9,Female,35.9,P. falciparum,Moderate,4,Other,1,No,164,Yes,40,Nausea,Other Complications
+PDMC-046,42,Male,69.1,P. vivax,Moderate,12,SP,1,No,123,Yes,168,Nausea,Other Complications
+PDMC-047,66,Male,10.5,Mixed,Mild,10,Amodiaquine,1,No,86,Yes,96,Rash,Other Complications
+PDMC-048,17,Female,48.7,Mixed,Severe,8,Amodiaquine,3,Yes,98,Yes,80,None,Other Complications
+PDMC-049,42,Female,17.3,P. vivax,Mild,14,DHA-PPQ,2,Yes,54,No,999,Nausea,Reinfected
+PDMC-050,57,Female,68.7,P. vivax,Moderate,3,Amodiaquine,1,Yes,174,No,999,Rash,Reinfected
+PDMC-051,56,Female,62.2,Mixed,Moderate,14,Amodiaquine,1,Yes,109,Yes,149,Dizziness,Reinfected
+PDMC-052,39,Female,7.3,P. falciparum,Moderate,12,Amodiaquine,1,Yes,59,No,999,None,Reinfected
+PDMC-053,26,Male,9.1,P. falciparum,Severe,10,SP,2,No,162,No,999,Rash,Recovered
+PDMC-054,41,Female,38.2,P. falciparum,Mild,9,SP,2,No,164,Yes,179,Rash,Other Complications
+PDMC-055,10,Female,71.0,Mixed,Mild,3,DHA-PPQ,1,No,138,No,999,None,Other Complications
+PDMC-056,2,Male,30.1,Mixed,Mild,6,DHA-PPQ,3,Yes,124,Yes,55,None,Other Complications
+PDMC-057,48,Female,68.2,P. vivax,Mild,12,Amodiaquine,2,Yes,152,Yes,138,Fatigue,Recovered
+PDMC-058,27,Female,43.9,P. vivax,Mild,4,SP,1,No,170,No,999,Nausea,Other Complications
+PDMC-059,32,Male,40.5,P. vivax,Severe,1,Other,1,No,68,No,999,Nausea,Recovered
+PDMC-060,21,Male,32.2,Mixed,Severe,12,SP,2,Yes,133,No,999,Fatigue,Reinfected
+PDMC-061,28,Female,43.0,P. vivax,Moderate,14,SP,1,No,38,Yes,177,Nausea,Recovered
+PDMC-062,39,Male,48.1,Mixed,Severe,3,SP,3,No,137,Yes,83,None,Recovered
+PDMC-063,66,Female,59.4,P. falciparum,Mild,2,DHA-PPQ,1,No,179,No,999,Rash,Other Complications
+PDMC-064,27,Female,28.0,P. vivax,Moderate,14,Amodiaquine,3,No,92,No,999,Fatigue,Reinfected
+PDMC-065,35,Male,69.3,P. falciparum,Mild,1,SP,2,Yes,117,No,999,Nausea,Other Complications
+PDMC-066,39,Male,44.3,Mixed,Moderate,6,DHA-PPQ,2,No,124,Yes,71,None,Recovered
+PDMC-067,28,Male,57.6,P. falciparum,Moderate,4,Other,3,Yes,144,Yes,152,Nausea,Other Complications
+PDMC-068,26,Male,73.0,P. falciparum,Moderate,1,Amodiaquine,1,Yes,45,Yes,9,Vomiting,Other Complications
+PDMC-069,26,Female,27.7,P. falciparum,Mild,9,DHA-PPQ,3,Yes,75,No,999,Vomiting,Recovered
+PDMC-070,57,Male,48.4,P. vivax,Severe,1,SP,1,Yes,42,No,999,Rash,Other Complications
+PDMC-071,59,Female,18.2,P. falciparum,Moderate,7,DHA-PPQ,1,Yes,136,Yes,167,Dizziness,Recovered
+PDMC-072,43,Male,28.2,P. falciparum,Mild,11,Other,3,Yes,175,Yes,30,None,Recovered
+PDMC-073,43,Female,39.1,P. falciparum,Moderate,11,DHA-PPQ,1,Yes,68,No,999,None,Reinfected
+PDMC-074,66,Male,20.8,Mixed,Mild,12,Other,3,No,147,No,999,None,Recovered
+PDMC-075,2,Female,53.1,Mixed,Mild,8,Other,3,No,37,Yes,119,Nausea,Reinfected
+PDMC-076,15,Female,22.8,P. falciparum,Severe,14,SP,3,Yes,40,No,999,Dizziness,Reinfected
+PDMC-077,3,Male,8.0,P. vivax,Moderate,10,Other,2,No,67,Yes,35,Fatigue,Recovered
+PDMC-078,48,Female,76.7,Mixed,Severe,3,Other,1,No,162,No,999,Nausea,Reinfected
+PDMC-079,24,Male,64.4,P. falciparum,Mild,7,Other,1,Yes,98,No,999,Dizziness,Other Complications
+PDMC-080,11,Male,21.1,P. falciparum,Mild,2,Amodiaquine,1,No,75,No,999,Dizziness,Recovered
+PDMC-081,58,Female,25.6,Mixed,Moderate,13,DHA-PPQ,3,No,104,No,999,Nausea,Other Complications
+PDMC-082,64,Male,45.8,Mixed,Moderate,7,Amodiaquine,3,No,176,Yes,13,Nausea,Other Complications
+PDMC-083,24,Female,38.0,Mixed,Moderate,7,Amodiaquine,2,Yes,59,Yes,113,Rash,Reinfected
+PDMC-084,12,Male,5.1,P. falciparum,Moderate,11,DHA-PPQ,1,Yes,110,Yes,28,Fatigue,Recovered
+PDMC-085,17,Male,65.9,Mixed,Moderate,11,SP,1,Yes,128,No,999,None,Recovered
+PDMC-086,34,Female,56.7,P. vivax,Moderate,8,DHA-PPQ,1,Yes,116,No,999,Nausea,Other Complications
+PDMC-087,34,Female,18.7,P. vivax,Severe,4,SP,2,No,77,Yes,54,Vomiting,Recovered
+PDMC-088,50,Female,38.4,P. vivax,Mild,14,SP,2,No,79,No,999,None,Other Complications
+PDMC-089,11,Female,38.3,P. falciparum,Moderate,6,Other,3,No,45,Yes,33,None,Reinfected
+PDMC-090,43,Male,10.8,P. falciparum,Mild,10,Other,3,No,52,No,999,Nausea,Recovered
+PDMC-091,34,Female,66.1,P. vivax,Mild,3,Other,3,Yes,172,Yes,116,Fatigue,Reinfected
+PDMC-092,64,Male,65.9,P. falciparum,Moderate,14,DHA-PPQ,2,No,116,Yes,31,Rash,Recovered
+PDMC-093,47,Female,76.4,Mixed,Moderate,4,DHA-PPQ,2,No,155,No,999,None,Other Complications
+PDMC-094,40,Female,60.0,Mixed,Severe,3,Other,2,Yes,82,Yes,125,Dizziness,Reinfected
+PDMC-095,23,Male,35.7,P. vivax,Mild,4,Amodiaquine,3,No,133,No,999,Dizziness,Reinfected
+PDMC-096,48,Male,49.6,P. vivax,Mild,11,Other,1,Yes,79,Yes,70,Nausea,Other Complications
+PDMC-097,38,Female,46.8,Mixed,Severe,4,DHA-PPQ,1,Yes,68,No,999,Rash,Recovered
+PDMC-098,32,Female,36.4,Mixed,Moderate,14,Other,1,No,81,No,999,Vomiting,Other Complications
+PDMC-099,4,Female,38.3,P. falciparum,Mild,11,Other,1,Yes,95,Yes,35,Fatigue,Other Complications
+PDMC-100,53,Male,69.7,P. falciparum,Mild,14,Amodiaquine,3,No,173,No,999,Vomiting,Reinfected
+PDMC-101,42,Female,13.3,P. falciparum,Mild,10,DHA-PPQ,2,Yes,169,Yes,95,Dizziness,Reinfected
+PDMC-102,17,Female,72.6,Mixed,Severe,13,Other,2,No,142,Yes,15,Rash,Recovered
+PDMC-103,63,Male,13.2,P. falciparum,Mild,5,SP,1,Yes,46,Yes,136,Vomiting,Reinfected
+PDMC-104,25,Male,71.1,P. vivax,Moderate,2,DHA-PPQ,3,No,165,Yes,84,Rash,Reinfected
+PDMC-105,25,Female,52.4,P. falciparum,Mild,6,DHA-PPQ,2,Yes,58,No,999,Vomiting,Other Complications
+PDMC-106,2,Female,33.8,Mixed,Mild,1,Amodiaquine,3,No,40,No,999,Rash,Other Complications
+PDMC-107,15,Female,20.9,P. vivax,Mild,1,SP,3,No,68,Yes,122,Dizziness,Reinfected
+PDMC-108,50,Male,51.5,P. vivax,Mild,6,DHA-PPQ,3,No,120,Yes,99,Vomiting,Recovered
+PDMC-109,19,Female,66.2,P. falciparum,Severe,5,DHA-PPQ,2,No,35,No,999,Rash,Reinfected
+PDMC-110,17,Male,34.7,P. falciparum,Severe,11,DHA-PPQ,1,Yes,137,Yes,171,Vomiting,Recovered
+PDMC-111,33,Male,39.2,P. vivax,Moderate,13,Amodiaquine,3,Yes,65,No,999,Nausea,Other Complications
+PDMC-112,32,Female,74.7,Mixed,Moderate,2,Amodiaquine,3,No,120,No,999,Rash,Reinfected
+PDMC-113,64,Male,40.6,Mixed,Moderate,13,SP,3,Yes,150,Yes,137,Nausea,Other Complications
+PDMC-114,11,Male,55.1,P. falciparum,Mild,10,Other,2,No,135,No,999,Rash,Reinfected
+PDMC-115,54,Male,62.2,P. vivax,Mild,5,DHA-PPQ,1,No,150,No,999,Dizziness,Recovered
+PDMC-116,7,Female,50.8,Mixed,Mild,3,DHA-PPQ,1,Yes,135,Yes,22,Fatigue,Reinfected
+PDMC-117,19,Male,13.0,Mixed,Moderate,2,SP,2,No,97,Yes,108,Fatigue,Recovered
+PDMC-118,39,Female,66.2,P. falciparum,Mild,6,Amodiaquine,1,Yes,62,Yes,22,Vomiting,Other Complications
+PDMC-119,39,Male,59.4,P. falciparum,Moderate,3,SP,2,No,171,No,999,Rash,Other Complications
+PDMC-120,28,Male,30.6,P. vivax,Severe,2,Amodiaquine,3,Yes,125,No,999,Vomiting,Recovered
+PDMC-121,6,Male,56.9,P. falciparum,Moderate,8,Amodiaquine,3,No,175,No,999,Fatigue,Recovered
+PDMC-122,10,Male,34.4,Mixed,Severe,8,Other,3,No,115,Yes,83,Nausea,Other Complications
+PDMC-123,46,Male,19.3,P. falciparum,Severe,1,Amodiaquine,3,Yes,61,Yes,149,Dizziness,Recovered
+PDMC-124,43,Female,25.2,Mixed,Moderate,1,Other,1,No,144,No,999,Nausea,Other Complications
+PDMC-125,60,Male,59.1,Mixed,Severe,13,DHA-PPQ,2,Yes,32,No,999,Vomiting,Recovered
+PDMC-126,65,Female,19.1,P. vivax,Severe,6,Other,3,Yes,111,Yes,76,Rash,Recovered
+PDMC-127,22,Male,46.8,P. falciparum,Severe,2,Amodiaquine,1,No,125,Yes,21,Fatigue,Reinfected
+PDMC-128,24,Female,70.0,P. vivax,Mild,7,Other,2,Yes,36,Yes,154,Dizziness,Other Complications
+PDMC-129,26,Male,61.4,P. vivax,Moderate,12,DHA-PPQ,3,Yes,91,Yes,95,None,Recovered
+PDMC-130,27,Male,33.0,P. falciparum,Moderate,11,Other,3,Yes,153,Yes,70,Dizziness,Other Complications
+PDMC-131,2,Male,79.9,P. vivax,Mild,11,SP,1,No,141,No,999,Fatigue,Other Complications
+PDMC-132,48,Female,61.4,P. falciparum,Moderate,9,DHA-PPQ,2,No,126,No,999,Rash,Other Complications
+PDMC-133,24,Female,56.7,P. falciparum,Severe,13,Other,3,No,149,No,999,None,Other Complications
+PDMC-134,41,Male,7.5,Mixed,Severe,4,Amodiaquine,3,Yes,64,No,999,Rash,Other Complications
+PDMC-135,52,Female,46.7,P. falciparum,Severe,11,SP,1,Yes,149,No,999,None,Recovered
+PDMC-136,44,Male,68.4,P. falciparum,Mild,1,Other,1,No,98,Yes,99,Nausea,Reinfected
+PDMC-137,18,Female,6.8,P. falciparum,Severe,10,Amodiaquine,2,No,170,No,999,Rash,Recovered
+PDMC-138,8,Female,51.8,P. falciparum,Severe,6,DHA-PPQ,2,No,100,Yes,61,Nausea,Other Complications
+PDMC-139,15,Female,10.1,Mixed,Severe,2,SP,3,Yes,147,Yes,25,Fatigue,Reinfected
+PDMC-140,50,Female,20.7,Mixed,Moderate,14,Other,2,Yes,112,Yes,20,Rash,Other Complications
+PDMC-141,6,Female,17.8,P. falciparum,Mild,3,Amodiaquine,2,Yes,139,No,999,Rash,Reinfected
+PDMC-142,65,Male,59.3,P. vivax,Moderate,7,Amodiaquine,2,No,83,No,999,None,Other Complications
+PDMC-143,2,Male,49.9,P. vivax,Mild,13,Amodiaquine,1,Yes,141,No,999,Fatigue,Recovered
+PDMC-144,69,Female,9.4,P. vivax,Severe,2,SP,3,No,53,Yes,120,None,Other Complications
+PDMC-145,34,Female,16.4,P. vivax,Severe,12,Other,1,No,131,Yes,134,Nausea,Reinfected
+PDMC-146,29,Female,56.8,P. vivax,Severe,7,Other,1,Yes,162,No,999,None,Reinfected
+PDMC-147,29,Male,7.1,P. falciparum,Severe,3,Other,3,No,97,Yes,126,Vomiting,Other Complications
+PDMC-148,67,Female,15.5,P. vivax,Severe,4,Amodiaquine,2,No,39,Yes,154,Nausea,Reinfected
+PDMC-149,53,Male,70.6,P. falciparum,Mild,7,SP,1,Yes,152,Yes,138,Fatigue,Other Complications
+PDMC-150,69,Male,24.3,P. falciparum,Severe,4,SP,1,Yes,173,Yes,154,Vomiting,Reinfected
+PDMC-151,38,Male,41.9,P. falciparum,Severe,13,DHA-PPQ,2,No,118,No,999,Rash,Reinfected
+PDMC-152,64,Male,33.4,P. falciparum,Severe,6,Amodiaquine,1,No,48,No,999,Vomiting,Reinfected
+PDMC-153,14,Male,18.0,Mixed,Mild,9,Amodiaquine,3,No,178,Yes,174,Vomiting,Recovered
+PDMC-154,11,Female,32.5,P. falciparum,Moderate,9,Amodiaquine,3,Yes,106,Yes,34,Rash,Other Complications
+PDMC-155,44,Male,69.5,P. falciparum,Moderate,1,DHA-PPQ,3,No,168,No,999,Dizziness,Recovered
+PDMC-156,50,Male,6.5,P. vivax,Severe,1,Amodiaquine,1,Yes,157,No,999,Vomiting,Recovered
+PDMC-157,26,Female,57.2,Mixed,Moderate,2,DHA-PPQ,1,No,90,Yes,30,None,Reinfected
+PDMC-158,55,Male,76.0,P. vivax,Severe,9,Amodiaquine,3,Yes,172,Yes,7,Fatigue,Recovered
+PDMC-159,64,Female,70.2,Mixed,Severe,10,Amodiaquine,1,Yes,144,Yes,42,Nausea,Recovered
+PDMC-160,70,Male,68.8,Mixed,Moderate,4,SP,1,No,117,No,999,Vomiting,Other Complications
+PDMC-161,47,Male,25.9,P. falciparum,Mild,8,Amodiaquine,2,No,41,No,999,Nausea,Reinfected
+PDMC-162,15,Female,34.7,P. vivax,Severe,1,DHA-PPQ,3,Yes,165,No,999,Vomiting,Reinfected
+PDMC-163,16,Female,39.6,P. falciparum,Mild,1,DHA-PPQ,3,Yes,52,Yes,114,Fatigue,Other Complications
+PDMC-164,65,Male,79.2,Mixed,Moderate,11,DHA-PPQ,2,No,53,Yes,68,Dizziness,Recovered
+PDMC-165,1,Female,6.8,P. falciparum,Mild,5,Amodiaquine,3,No,79,No,999,Nausea,Other Complications
+PDMC-166,48,Female,33.7,P. falciparum,Mild,1,Other,2,No,176,No,999,Nausea,Reinfected
+PDMC-167,63,Female,47.0,Mixed,Moderate,2,Amodiaquine,1,No,160,Yes,122,Rash,Recovered
+PDMC-168,69,Male,40.7,Mixed,Mild,4,DHA-PPQ,1,No,44,Yes,140,Fatigue,Reinfected
+PDMC-169,22,Female,9.4,Mixed,Severe,11,DHA-PPQ,3,No,104,No,999,None,Recovered
+PDMC-170,50,Female,67.6,Mixed,Severe,4,SP,3,Yes,100,Yes,92,Dizziness,Reinfected
+PDMC-171,33,Female,42.8,P. vivax,Mild,2,SP,1,No,166,Yes,179,Rash,Recovered
+PDMC-172,51,Male,61.6,P. falciparum,Severe,7,Amodiaquine,1,Yes,32,No,999,Rash,Other Complications
+PDMC-173,68,Female,77.0,P. falciparum,Moderate,7,Other,2,No,33,No,999,Vomiting,Other Complications
+PDMC-174,52,Male,33.0,P. vivax,Moderate,3,Amodiaquine,3,Yes,100,Yes,8,Nausea,Other Complications
+PDMC-175,12,Male,56.7,P. falciparum,Severe,1,DHA-PPQ,2,No,35,No,999,Dizziness,Recovered
+PDMC-176,15,Female,42.3,P. vivax,Moderate,2,SP,1,No,87,Yes,152,None,Other Complications
+PDMC-177,32,Male,78.1,Mixed,Severe,9,Other,2,No,179,No,999,Fatigue,Other Complications
+PDMC-178,59,Female,32.4,P. vivax,Severe,7,Amodiaquine,3,Yes,152,No,999,Vomiting,Reinfected
+PDMC-179,33,Male,16.1,P. vivax,Moderate,2,Amodiaquine,1,No,170,No,999,Fatigue,Reinfected
+PDMC-180,20,Female,41.7,Mixed,Severe,6,DHA-PPQ,2,Yes,130,No,999,Rash,Other Complications
+PDMC-181,54,Male,59.0,P. falciparum,Severe,9,Amodiaquine,3,Yes,107,No,999,Nausea,Recovered
+PDMC-182,3,Female,13.6,P. vivax,Moderate,14,Other,3,Yes,124,No,999,Dizziness,Reinfected
+PDMC-183,22,Male,23.6,Mixed,Moderate,8,Amodiaquine,1,No,155,Yes,88,Vomiting,Reinfected
+PDMC-184,67,Female,52.1,Mixed,Moderate,6,Other,2,No,142,Yes,161,Vomiting,Other Complications
+PDMC-185,11,Female,54.6,P. vivax,Moderate,14,DHA-PPQ,2,No,64,Yes,172,None,Reinfected
+PDMC-186,37,Female,77.5,P. vivax,Severe,8,Other,3,Yes,48,Yes,132,None,Reinfected
+PDMC-187,15,Male,7.7,Mixed,Severe,9,Other,3,No,74,Yes,110,Nausea,Reinfected
+PDMC-188,17,Male,14.4,P. vivax,Mild,13,Amodiaquine,1,No,111,Yes,147,Fatigue,Reinfected
+PDMC-189,69,Female,61.3,P. falciparum,Mild,13,SP,2,Yes,154,Yes,46,Rash,Reinfected
+PDMC-190,52,Female,73.5,P. falciparum,Moderate,4,SP,3,No,73,No,999,Nausea,Other Complications
+PDMC-191,28,Female,60.4,P. falciparum,Moderate,12,SP,3,No,100,No,999,Nausea,Reinfected
+PDMC-192,33,Female,54.1,P. vivax,Severe,12,Other,2,Yes,93,No,999,Vomiting,Other Complications
+PDMC-193,50,Male,72.1,P. vivax,Severe,14,DHA-PPQ,1,No,143,Yes,36,None,Reinfected
+PDMC-194,70,Female,46.1,P. falciparum,Severe,8,SP,2,Yes,140,Yes,161,Fatigue,Other Complications
+PDMC-195,18,Female,66.3,P. falciparum,Mild,7,Other,1,No,161,No,999,None,Reinfected
+PDMC-196,9,Male,10.4,P. vivax,Severe,11,DHA-PPQ,1,Yes,175,No,999,Vomiting,Reinfected
+PDMC-197,13,Male,14.3,Mixed,Moderate,5,Amodiaquine,1,No,89,Yes,6,Nausea,Other Complications
+PDMC-198,33,Female,79.7,P. vivax,Mild,1,SP,3,No,31,Yes,157,Vomiting,Reinfected
+PDMC-199,67,Male,22.3,P. vivax,Severe,7,SP,3,No,32,Yes,48,Dizziness,Reinfected
+PDMC-200,60,Male,69.5,Mixed,Mild,6,DHA-PPQ,3,No,177,Yes,67,Rash,Other Complications
